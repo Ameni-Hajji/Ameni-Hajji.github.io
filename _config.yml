@@ -1,0 +1,11 @@
+title: "Ameni"
+description: "Personal portfolio"
+theme: minima
+
+# Optional: your details (used by minima)
+author:
+  name: "Ameni"
+  email: "@"
+
+# Optional: turn off blog posts for now
+show_excerpts: false
