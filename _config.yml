@@ -1,0 +1,8 @@
+title: "Your Name"
+description: "Personal site"
+baseurl: ""          # keep empty for username.github.io
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+theme: null
+plugins: []
